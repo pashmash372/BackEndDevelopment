@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>com.scaler.bd</groupId>
+    <artifactId>BackEndDevelopment</artifactId>
+    <version>1.0-SNAPSHOT</version>
+    <packaging>pom</packaging>
+    <modules>
+        <module>DAY164_17APR_ProjectTownhall</module>
+        <module>DAY165_24APR_Backend_GitandGithub-1</module>
+        <module>DAY166_26APR_Backend_GitandGithub-2</module>
+        <module>DAY167_28APR_BackendJavaforProjects-1</module>
+        <module>DAY172_1MAY_Backend_JavaforProjects-2</module>
+        <module>DAY173_3MAY_SpringBoot_Introduction_ProjectStructure_Controllers</module>
+        <module>DAY174_5MAY_SpringBoot_Services_DependencyInjectionandErrorHandling</module>
+        <module>DAY175_8MAY_SpringBoot_Models_EntitiesandRepositories</module>
+        <module>DAY176_10MAY_SpringBoot_WorkingwithDatabases</module>
+        <module>DAY177_12MAY_SpringBoot_LayerandFeaturewiseprojectstructure</module>
+        <module>DAY178_15MAY_SpringBoot_JWT_Cookies</module>
+        <module>DAY179_17MAY_SpringBoot_AuthenticationandWebSecurityConfig</module>
+        <module>DAY180_19MAY_SpringBoot_TestingStrategies</module>
+        <module>DAY181_22MAY_SpringBoot_Dockerization</module>
+    </modules>
+
+    <properties>
+        <maven.compiler.source>19</maven.compiler.source>
+        <maven.compiler.target>19</maven.compiler.target>
+        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+    </properties>
+
+</project>
