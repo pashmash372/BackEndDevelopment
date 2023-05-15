@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3a59adb4-45aa-4891-acd3-f123ec202fa7" name="Changes" comment="code updated">
-      <change afterPath="$PROJECT_DIR$/DAY175_8MAY_SpringBoot_Models_EntitiesandRepositories/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DAY176_10MAY_SpringBoot_WorkingwithDatabases/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -39,16 +39,16 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "jdk.selected.JAVA_MODULE": "openjdk-19",
-    "last_opened_file_path": "C:/Users/abhil/IdeaProjects/BackEndDevelopment/DAY175_8MAY_SpringBoot_Models_EntitiesandRepositories"
+    "last_opened_file_path": "C:/Users/abhil/IdeaProjects/BackEndDevelopment/DAY176_10MAY_SpringBoot_WorkingwithDatabases"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\abhil\IdeaProjects\BackEndDevelopment\DAY176_10MAY_SpringBoot_WorkingwithDatabases" />
       <recent name="C:\Users\abhil\IdeaProjects\BackEndDevelopment\DAY175_8MAY_SpringBoot_Models_EntitiesandRepositories" />
       <recent name="C:\Users\abhil\IdeaProjects\BackEndDevelopment\DAY174_5MAY_SpringBoot_Services_DependencyInjectionandErrorHandling" />
       <recent name="C:\Users\abhil\IdeaProjects\BackEndDevelopment\DAY173_3MAY_SpringBoot_Introduction_ProjectStructure_Controllers" />
       <recent name="C:\Users\abhil\IdeaProjects\BackEndDevelopment\DAY172_1MAY_Backend_JavaforProjects-2" />
-      <recent name="C:\Users\abhil\IdeaProjects\BackEndDevelopment\DAY167_28APR_BackendJavaforProjects-1" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -81,7 +81,14 @@
       <option name="project" value="LOCAL" />
       <updated>1683361865570</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="code updated">
+      <created>1683811292250</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1683811292250</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
